@@ -71,8 +71,9 @@ We would like you to have well over 200 commits by graduation, so commit early a
 You are required to submit the following:
 
 * The URL of the deployed application
+https://calm-scrubland-96018.herokuapp.com/
 
 * The URL of the GitHub repository
-
+https://github.com/jguerra21/note-taker
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
