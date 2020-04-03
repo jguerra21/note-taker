@@ -76,4 +76,13 @@ https://calm-scrubland-96018.herokuapp.com/
 * The URL of the GitHub repository
 https://github.com/jguerra21/note-taker
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Final deployed app screenshots:
+
+When clicking on the link this will be the page that user will first see:
+![](images/screenshot1.jpeg)
+
+Once you are in main page you will clik GET started and you will be able to create a new note/edit/delete:
+![](images/screenshot2.jpeg)
+
+The note app includes options to delete note and to create a new note:
+![](images/screenshot3.jpeg)
